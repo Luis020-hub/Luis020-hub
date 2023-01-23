@@ -6,4 +6,4 @@
 - 💼 Procurando uma oportunidade como Desenvolvedor.
 - 😄 Pronomes: ele/dele.
 - 📫 Contate-me no email: guhmonteiro10@hotmail.com
-
+- 💻 Conhecimentos: HTML, Css, Javascript, Typescript, NextJs, Flutter.
