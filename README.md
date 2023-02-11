@@ -3,7 +3,7 @@
 
 - 🎓 Sou recém formado em Ciência da computação.
 - 👨‍💻 Atualmente aprendendo Flutter.
-- 💼 Procurando uma oportunidade como Desenvolvedor.
+- 💼 Procurando uma oportunidade como Desenvolvedor Junior.
 - 😄 Pronomes: ele/dele.
 - 📫 Contate-me no email: guhmonteiro10@hotmail.com
 - 💻 Conhecimentos: HTML, Css, Javascript, Typescript, NextJs, Flutter.
