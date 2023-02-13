@@ -3,10 +3,8 @@
 
 - 🎓 Sou recém formado em Ciência da computação.
 - 💼 Procurando uma oportunidade como Desenvolvedor.
-- 😄 Pronomes: ele/dele.
 - 📫 Contate-me no email: guhmonteiro10@hotmail.com
 - 💻 Conhecimentos: HTML, Css, Javascript, Typescript, NextJs, Flutter.
-
 - 👨‍💻 Atualmente estudando Flutter.
 
 <div style="display: inline_block"> <br>
