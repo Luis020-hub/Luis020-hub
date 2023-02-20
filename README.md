@@ -9,7 +9,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=luis020-hub&show_icons=true&theme=transparent)](https://github.com/Luis020-hub/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"> <br>
 	
