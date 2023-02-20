@@ -7,6 +7,8 @@
 - 💻 Conhecimentos: HTML, Css, Javascript, Typescript, NextJs, Flutter.
 - 👨‍💻 Atualmente estudando Flutter.
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=luis020-hub&show_icons=true&theme=transparent)](https://github.com/Luis020-hub/github-readme-stats)
+
 <div style="display: inline_block"> <br>
 	
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
