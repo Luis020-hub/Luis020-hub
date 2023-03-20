@@ -11,7 +11,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luis020-hub&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis020-hub&hide_progress=true&theme=transparent)
 
 <div style="display: inline_block"> <br>
 	
