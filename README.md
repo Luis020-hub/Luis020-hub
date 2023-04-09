@@ -34,7 +34,3 @@
 		<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 	</a>
 </div>
-
-##
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.Luis020-hub&left_color=blue&right_color=black)
