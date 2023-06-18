@@ -4,7 +4,7 @@
 - 🎓 Recém formado em Ciência da computação.
 - 💼 Procurando uma oportunidade como Desenvolvedor.
 - 📫 Contate-me no email: guhmonteiro10@hotmail.com
-- 💻 Conhecimentos: HTML, Css, Javascript, Typescript, NextJs, Flutter.
+- 💻 Conhecimentos: HTML, CSS, Javascript, Typescript, NextJs, Flutter.
 - 👨‍💻 Atualmente estudando Flutter.
 
 <br>
