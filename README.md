@@ -5,7 +5,7 @@
 - 💼 Procurando uma oportunidade como Desenvolvedor.
 - 📫 Contate-me no email: guhmonteiro10@hotmail.com
 - 💻 Conhecimentos: HTML, CSS, Javascript, Typescript, NextJs, Flutter.
-- 👨‍💻 Atualmente estudando Flutter e Figma.
+- 👨‍💻 Atualmente estudando Flutter, Figma e NodeJs.
 
 <br>
 
