@@ -1,7 +1,7 @@
 ### Olá meu nome é Luís 👋
 
 
-- 🎓 Recém formado em Ciência da computação.
+- 🎓 Formado em Ciência da computação.
 - 💼 Procurando uma oportunidade como Desenvolvedor.
 - 📫 Contate-me no email: guhmonteiro10@hotmail.com
 - 💻 Conhecimentos: HTML, CSS, Javascript, Typescript, NextJs, Flutter.
