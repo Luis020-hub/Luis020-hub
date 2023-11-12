@@ -1,11 +1,12 @@
 ### Olá meu nome é Luís 👋
 
 
+- 🎓 Cursando Pós-Graduação em Desenvolvimento Full Stack na PUC Minas.
 - 🎓 Formado em Ciência da computação.
 - 💼 Procurando uma oportunidade como Desenvolvedor.
-- 📫 Contate-me no email: guhmonteiro10@hotmail.com
-- 💻 Conhecimentos: HTML, CSS, Javascript, Typescript, NextJs, Flutter.
-- 👨‍💻 Atualmente estudando Flutter, Figma e NodeJs.
+- 📫 Contate-me no email: <a> guhmonteiro10@hotmail.com </a>
+- 💻 Conhecimentos: Flutter, Dart, Firebase, Git/GitHub, Javascript, Typescript, NextJs e NodeJs.
+- 👨‍💻 Atualmente estudando Flutter e NodeJs.
 
 <br>
 
