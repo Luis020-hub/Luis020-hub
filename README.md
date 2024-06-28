@@ -3,10 +3,13 @@
 
 - 🎓 Cursando Pós-Graduação em Desenvolvimento Full Stack na PUC Minas.
 - 🎓 Formado em Ciência da computação.
-- 💼 Procurando uma oportunidade como Desenvolvedor.
+- 💼 Procurando uma oportunidade.
 - 📫 Contate-me no email: <a> guhmonteiro10@hotmail.com </a>
-- 💻 Conhecimentos: Flutter, Dart, Firebase, Git/GitHub, Javascript, Typescript, NextJs e NodeJs.
-- 👨‍💻 Atualmente estudando Flutter e NodeJs.
+- 💻 Conhecimentos: Flutter, Dart, Firebase, Git/GitHub, Javascript, Typescript, NextJs, NodeJs, PHP, Twig e Slim.
+
+<br>
+
+Certificado CSD Scrum Alliance: https://www.scrumalliance.org/community/profile/lmonteiros
 
 <br>
 
