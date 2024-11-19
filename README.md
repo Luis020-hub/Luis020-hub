@@ -3,9 +3,8 @@
 
 - 🎓 Cursando Pós-Graduação em Desenvolvimento Full Stack na PUC Minas.
 - 🎓 Formado em Ciência da computação.
-- 💼 Procurando uma oportunidade.
 - 📫 Contate-me no email: <a> guhmonteiro10@hotmail.com </a>
-- 💻 Conhecimentos: Flutter, Dart, Firebase, Git/GitHub, Javascript, Typescript, NextJs, NodeJs, PHP, Twig e Slim.
+- 💻 Foco em: PHP.
 
 <br>
 
