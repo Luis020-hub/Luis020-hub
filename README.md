@@ -8,7 +8,7 @@
 
 ## 💼 Sobre mim
 
-Sou desenvolvedor com foco principal em **PHP**, atuando na construção de aplicações web escaláveis e bem estruturadas.
+Sou desenvolvedor com foco principal em **PHP**, atuando na construção de aplicações web.
 
 Tenho experiência no desenvolvimento de APIs, consumo de serviços e versionamento com Git.
 
